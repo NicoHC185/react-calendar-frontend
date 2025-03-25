@@ -18,19 +18,7 @@
     "react-scripts": "4.0.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "sweetalert2": "^11.1.9",
-    "workbox-background-sync": "^6.4.2",
-    "workbox-broadcast-update": "^6.4.2",
-    "workbox-cacheable-response": "^6.4.2",
-    "workbox-core": "^6.4.2",
-    "workbox-expiration": "^6.4.2",
-    "workbox-google-analytics": "^6.4.2",
-    "workbox-navigation-preload": "^6.4.2",
-    "workbox-precaching": "^6.4.2",
-    "workbox-range-requests": "^6.4.2",
-    "workbox-routing": "^6.4.2",
-    "workbox-strategies": "^6.4.2",
-    "workbox-streams": "^6.4.2"
+    "sweetalert2": "^11.1.9"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
